@@ -96,6 +96,6 @@ The Chart uses animated transitions to display new and updated data. These trans
         categoryAxis: {
             categories: [2005, 2006, 2007, 2008, 2009]
         },
-        transitions: false
+        transitions: true
     });
 
